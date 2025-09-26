@@ -1,5 +1,5 @@
 #Title
 
 
-##Building Badge
-![workflow](https://github.com/<gucci-beno>/<devops>/actions/workflows/main.yml/badge.svg)
+
+![workflow](https://github.com/gucci-beno/devops/actions/workflows/main.yml/badge.svg)
